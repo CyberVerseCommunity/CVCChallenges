@@ -10,6 +10,8 @@ This repository contains CTF challenges created by community people to play and 
 Contributions are always welcome!
 Please adhere to this project's `code of conduct`.
 
+- Refer CONTRIBUTE.md to see how you can contribute to repository.
+
 <a href="https://github.com/CyberVerseCommunity/CVCChallenges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CyberVerseCommunity/CVCChallenges" />
 </a>
