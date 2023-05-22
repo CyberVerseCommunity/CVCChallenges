@@ -15,6 +15,7 @@ After forking a repository from main brach, check available changes from origina
 Now clone newly made repository from your profile and paste your made challenge inside challenge category with proper README.md file with all necessary details.
 - [README Referance](https://github.com/CyberVerseCommunity/CVCChallenges/tree/main/Reverse%20Engineering/Level1#readme)
 - If challenge categoryis not available then create a category folder and put challenge inside it. Make sure you are putting your challenges in right place.
+- If challenge require any os or services kind of setup then provide that challenge as docker file so that it will be easy to manage, upload and download.
 
 ## Commit and Push Changes
 Commit your changes and run following command inside your terminal at project directory location.
